@@ -1,3 +1,8 @@
+# Description 
+
+SimCity is a city simulation project written in C++ that simulates the growth and development of a virtual city. The project was developed as a group project in August 2022 and includes various classes representing different regions within the city, such as residential, industrial, commercial, and more. The simulation models population growth, pollution, worker availability, and the production and exchange of goods.
+
+
 # Sim City Project for CS2110 Foundations of Data Structures
 
 <img src="resources/gui.PNG" alt="SimCity Project GUI">
@@ -13,6 +18,17 @@
 <img src="resources/exampleconfig.PNG" alt="Example Config File Contents">
 
 <img src="resources/exampleregion.PNG" alt="Example Region File Contents">
+
+## Navigate to the project directory
+cd simcity-project
+
+## Compile the source code using a C++ compiler
+
+g++ main.cpp regions.cpp citysubjects.cpp -o simcity
+
+## Run 
+./simcity
+
 
 
 ## Links:
