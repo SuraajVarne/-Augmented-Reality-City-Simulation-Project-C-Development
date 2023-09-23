@@ -1,6 +1,19 @@
 # Description 
 
-SimCity is a city simulation project written in C++ that simulates the growth and development of a virtual city. The project was developed as a group project in August 2022 and includes various classes representing different regions within the city, such as residential, industrial, commercial, and more. The simulation models population growth, pollution, worker availability, and the production and exchange of goods.
+Description:
+SimCity is a sophisticated C++ city simulation project developed collaboratively in August 2022. This ambitious endeavor demonstrates our team's prowess in software development, problem-solving, and teamwork. The simulation offers a comprehensive virtual city experience, encompassing various urban regions, population dynamics, pollution modeling, and economic interactions.
+
+Multi-Region Simulation: SimCity features a meticulously designed multi-region simulation, encompassing residential, industrial, commercial, and power-related zones. Each region evolves independently, influencing the city's overall growth.
+
+Population Dynamics: Our simulation replicates realistic population dynamics, with regions attracting and retaining residents based on various factors. As populations grow, so do the city's needs and complexities.
+
+Environmental Modeling: Pollution levels dynamically change as the city expands. Effective management of pollution becomes crucial for maintaining a thriving urban environment.
+
+Economic Interactions: The project introduces economic dynamics through the production and exchange of goods. Industrial regions produce goods, which are then distributed to commercial zones for sale.
+
+Interactive Experience: SimCity offers an interactive experience, allowing users to shape the city's development by making decisions and observing the consequences.
+
+This project not only demonstrates our proficiency in C++ programming but also showcases our ability to tackle complex, real-world challenges. SimCity serves as a testament to our teamwork, problem-solving, and commitment to delivering innovative software solutions.
 
 
 # Sim City Project for CS2110 Foundations of Data Structures
